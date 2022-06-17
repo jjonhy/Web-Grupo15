@@ -1,5 +1,18 @@
-#tool-bar{
-    background-color: #f6f8cb;
+#pagina{
+    width: 100%;
+}
+
+
+.logotipo{
+    margin: 30px 0px 30px 30px;
+}
+
+.banner{
+    width: 100%;
+}
+
+.tool-bar{
+    background-color: #ffffff;
     align-items: center;
     display:flex;
     flex-wrap: nowrap;
@@ -13,19 +26,24 @@
 }
 
 .tool-link{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
     border: none;
-    padding: 0px 00px 0px 30px;
-    background-color: #c4c4c4;
+    padding: 5px 00px 0px 7px;
+    background-color: rgb(255, 255, 255);
     cursor:pointer;
     transition: background .3s;
     border-radius: 6px;
     margin: 0 50px;
     font-size: 18px;
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 90px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
 }
 .tool-link:hover{
-    background-color: #d5d5a7;
+    background-color: #ff0000;
 }
 
 p{
@@ -35,22 +53,25 @@ p{
 
 #Coleções h1{
     margin: 0px ;
+    padding: 20px;
     text-align: center;
-    font-family: 'Habibi';  
+    font-family: 'Montserrat', sans-serif;
     font-size: 60px;
-    background-color: #d5d5a7;
+    background-color: rgb(255, 255, 255);
     padding-top: 40px;
+    color: #000000;
 }
 #Coleções h2{
     text-align: center;
-    font-family: 'Habibi', cursive;
+    font-family: 'Montserrat', sans-serif;
     font-size: 40px;
 }
 
 #Coleções{
-    background-color: beige;
+    background-color: #000000;
     padding-bottom: 200px;
 }
+
 #imagens{
     margin-top: 80px;
     display: flex;
@@ -61,29 +82,40 @@ p{
 
 .col{
     padding:  15px 30px 30px 30px;
-    background-color: #c4c4c4;
+    background-color: #ffffff;
     cursor:pointer;
+    text-align: center;
+    width: 350px;
+    height: 400px;
 }
 
 #bras{
+    width: 100%;
     display:flex;
     justify-content: space-around;
     padding-bottom: 80px;
 }
 #Marcas h1{
     text-align: center;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Montserrat', sans-serif;
     font-size: 40px;
 }
 
 .bra{
-    padding: 0px 100px;
+    padding: 0px 30px;
 }
 
 #Footer{
     display:flex;
+    font-family: 'Montserrat', sans-serif;
     background-color: #c4c4c4;
     align-items: center;
+    font-weight: bold;
+    text-decoration: None;
+}
+
+.bot_foot{
+    text-decoration: None;
 }
 .btnF{
     border: none;
@@ -93,7 +125,7 @@ p{
     border-radius: 6px;
     margin: 0px 53px;
     font-size: 20px;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Montserrat', sans-serif;
 }
 
 #about_us{
@@ -107,7 +139,7 @@ p{
 }
 
 #about_us h1{
-    font-family: 'Habibi';    
+    font-family: 'Montserrat', sans-serif;
     font-size: 60px;
 }
 
@@ -125,7 +157,7 @@ p{
 
 #desc{
     background-color: #464646;
-    font-family: 'Habibi';
+    font-family: 'Montserrat', sans-serif;
     display: flex;
     justify-content: space-around;
     padding-bottom: 220px;
@@ -146,7 +178,7 @@ p{
 }
 
 #produtos_glasses_f2 h3{
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .produtos{

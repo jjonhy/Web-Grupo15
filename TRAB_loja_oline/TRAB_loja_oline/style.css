@@ -62,18 +62,11 @@
     
 }
 
-#col1{
+#coluna_de_{
     padding:  15px 30px 30px 30px;
     background-color: #c4c4c4;
 }
-#col2{
-    padding:  15px 30px 30px 30px;
-    background-color: #c4c4c4;
-}
-#col3{
-    padding:  15px 30px 30px 30px;
-    background-color: #c4c4c4;
-}
+
 #bras{
     display:flex;
     justify-content: space-around;
@@ -100,6 +93,8 @@
 #Footer{
     display:flex;
     background-color: #c4c4c4;
+    font-weight: bold;
+    text-decoration: none;
 }
 .btnF{
     border: none;
