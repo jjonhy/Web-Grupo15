@@ -6,7 +6,7 @@
 - Vitor Laperriere de Faria 12689085
 - João Pedro Matos de Deus 12677492 
 
-### Milestone 2 - ![Relatório](github.com/jjonhy/Web-Grupo15/edit/main/README.md?plain=1#L114)
+### Milestone 2 - ![Relatório](https://github.com/jjonhy/Web-Grupo15#milestone-2--project-report)
 
 # Milestone 1 - Project Report
 ## Store Mockups
