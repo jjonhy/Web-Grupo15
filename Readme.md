@@ -116,14 +116,11 @@ Serão salvos os perfis dos usuários e administradores, com as informações de
 
 
 ### Requirements
-Seguindo a estrutura básica apresentada no Milestone 1, porém atualizada para uma loja de relógios, nessa etapa desenvolveremos todas as funcionalidades do Cliente, usando o Framework Vue, serão apresentados todos os arquivos HTML/CSS e Javascript.
+Seguindo a estrutura básica apresentada no Milestone 1, porém atualizada para uma loja de relógios, nessa etapa desenvolveremos todas as funcionalidades do Cliente, usando o Framework React, serão apresentados todos os arquivos HTML/CSS e Javascript.
 
 
 
 ### Project Description
-
-
-
 
 
 ### Comments About The Code
@@ -133,6 +130,9 @@ No comments.
 ### Test Results
 
 ### Build Procedures
+Após o download dos arquivos, usar os comandos:
+"npm install"
+"npm start"
 
 ### Problems
 No problems.
